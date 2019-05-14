@@ -19,7 +19,9 @@
 	public int getnumberofpages() {
 		return numberofpages;
 	}
-
+	public void setpublisher(String publisher) {
+		this.publisher = publisher;
+	}
 
 
 
